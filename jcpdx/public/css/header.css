@@ -1,0 +1,9 @@
+@import url("fonts.css");
+
+
+.header {
+    font-family: 'videophreakregular', sans-serif;
+    background-color: black; 
+    text-decoration-line: underline;
+    color: white;
+}
